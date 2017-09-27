@@ -1,0 +1,13 @@
+{
+    "isShowAds": true,
+	"isShowGift": true, 	
+    "adsPercent": 99,
+	"winLayerPercent": 100,
+	"loseLayerPercent": 100,
+	"pauseLayerPercent": 1,
+	"bannerPercent": 99,
+	"giftLayerPercent": 100,
+	"homePercent": 1,
+	"banner_id": "ca-app-pub-7838049369367383/4360646950",
+	"inster_id": "ca-app-pub-7838049369367383/2883913752"
+}
