@@ -1,7 +1,7 @@
 {
     "isShowAds": true,
 	"isShowGift": true, 	
-    "adsPercent": 99,
+    "adsPercent": 100,
 	"winLayerPercent": 100,
 	"loseLayerPercent": 100,
 	"pauseLayerPercent": 1,
